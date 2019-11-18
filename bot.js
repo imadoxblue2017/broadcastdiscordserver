@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : IMADOX ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`$bc |IMADOX`,"http://twitch.tv/imadoxblue")
+client.user.setGame(`!bc |IMADOX`,"http://twitch.tv/imadoxblue")
 client.user.setStatus("dnd")
 });
 
